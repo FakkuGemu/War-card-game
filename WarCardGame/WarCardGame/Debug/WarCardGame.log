@@ -1,0 +1,4 @@
+﻿  WarCardGame.cpp
+C:\Users\ivank\Desktop\WarCardGame\WarCardGame\WarCardGame.cpp(23,2): warning C4091: "typedef ": zignorowano na lewo od "karta_t" podczas gdy brak deklaracji zmiennej
+C:\Users\ivank\Desktop\WarCardGame\WarCardGame\WarCardGame.cpp(443,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  WarCardGame.vcxproj -> C:\Users\ivank\Desktop\WarCardGame\Debug\WarCardGame.exe
